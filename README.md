@@ -25,3 +25,5 @@
 关卡、怪物、英雄、装备和宠物资料来自玩家自己的游戏安装文件。常规关卡的基础收益估算参考了 TBH Wiki 的刷取计算规则。例如，怪物表缺少某个怪物时，估算会保留它的出现权重，并将它贡献的收益计为零。1.3.2 以外版本的经验等级系数也参考了 Wiki 公式。1.3.2 的 108 个常规关卡已用 Wiki 关卡表核对过基础经验和金币估算。[TBH Wiki 刷取计算器](https://tbhwiki.org/zh/farm) · [关卡资料](https://tbhwiki.org/zh/stages)
 
 本助手是非官方玩家工具。游戏及 Wiki 内容的相关权利归各自权利人所有。收益预测仅供选图参考，实际结果会随配装、通关耗时和游戏版本变化。[游戏使用条款](https://store.steampowered.com/eula/3678970_eula_1) · [TBH Wiki 使用条款](https://tbhwiki.org/terms-of-service)
+
+如果你是相关内容的权利人，认为本项目的内容可能侵犯你的权益，或发现署名有误，欢迎通过 GitHub Issues 联系我。请指出涉及的文件或页面，并附上原始来源，方便我核实后更正署名、调整或移除相关内容。[联系项目维护者](https://github.com/HUST-XiaoMing/TaskbarHero-Helper/issues/new)
