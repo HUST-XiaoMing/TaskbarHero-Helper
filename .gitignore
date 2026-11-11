@@ -1,0 +1,6 @@
+/data/
+/state/
+/dist/
+/runtime/
+/*.exe
+__pycache__/
